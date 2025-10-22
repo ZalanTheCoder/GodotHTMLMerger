@@ -15,7 +15,7 @@ Allows you to merge `.html`, `.js`, `.pck`, and `.wasm` files into a single offl
 ![UI Screenshot](ui_screenshot.png)
 
 ## Usage
-
+ 
 1. Download the executable from [Releases](releases).
 2. Run `merge_godot_gui.exe`.
 3. Select your HTML, JS, PCK, and WASM files.
