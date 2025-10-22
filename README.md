@@ -16,7 +16,7 @@ Allows you to merge `.html`, `.js`, `.pck`, and `.wasm` files into a single offl
 
 ## Usage
  
-1. Download the executable from [Releases](releases).
+1. Download the executable from [Releases]((https://github.com/ZalanTheCoder/GodotHTMLMerger/tree/releases)).
 2. Run `merge_godot_gui.exe`.
 3. Select your HTML, JS, PCK, and WASM files.
 4. Click "Merge Files" to generate a single offline HTML.
