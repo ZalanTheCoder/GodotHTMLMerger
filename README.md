@@ -12,7 +12,7 @@ Allows you to merge `.html`, `.js`, `.pck`, and `.wasm` files into a single offl
 
 ## Screenshot
 
-![UI Screenshot](ui_screenshot.png)
+![UI Screenshot](UI_screenshot.png)
 
 ## Usage
  
